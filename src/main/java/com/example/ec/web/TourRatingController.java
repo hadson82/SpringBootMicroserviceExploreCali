@@ -29,6 +29,7 @@ public class TourRatingController {
 
     protected TourRatingController(){}
 
+
     /**
      * Create a Tour Rating.
      *
